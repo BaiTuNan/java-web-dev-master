@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="book-onlie:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/book_onlie_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="book-onlie/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="book-onlie" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
